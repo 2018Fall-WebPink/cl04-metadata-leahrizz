@@ -1,0 +1,27 @@
+/*
+* Leah Rizzo
+* September 10, 2018
+* CSS
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+main {
+    background-color: skyblue;
+}
+
+header {
+    background-color: lightpink;
+}
+
+footer {
+    background-color: lightgoldenrodyellow;
+}
+body {
+
+}
